@@ -2,7 +2,7 @@
 API for grabbing transcripts from youtube
 
 
-# Instalation 
+# Installation 
 
 If you haven't already, install python3. (Check your OS installation instructions)
 
